@@ -22,9 +22,9 @@ const CONFIG = {
 
   // Desde dónde se calcula el cielo (por defecto Guaranda, Ecuador)
   lugar: {
-    nombre: "Guaranda, Ecuador",
-    lat: -1.5925,
-    lon: -79.0011,
+    nombre: "Penipe, Ecuador",
+    lat: -1.5573,
+    lon: -78.5396,
     utcOffset: -5 // hora de Ecuador
   },
 
@@ -33,7 +33,7 @@ const CONFIG = {
 
   // Cuántos segundos de cielo avanzan por cada segundo real (0 = quieto)
   velocidadCielo: 40,
-
+ñ
   // Ruta de la canción. Si no existe, suena una melodía generada por el navegador
   musica: "assets/music/cancion.mp3"
 };

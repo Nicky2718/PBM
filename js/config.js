@@ -33,7 +33,7 @@ const CONFIG = {
 
   // Cuántos segundos de cielo avanzan por cada segundo real (0 = quieto)
   velocidadCielo: 40,
-ñ
+
   // Ruta de la canción. Si no existe, suena una melodía generada por el navegador
   musica: "assets/music/cancion.mp3"
 };
